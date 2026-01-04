@@ -2,7 +2,7 @@
   "name": "iMirly",
   "short_name": "iMirly",
   "description": "Marketplace de servicios locales",
-  "start_url": "/iMirlyWeb/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#F1F1F1",
   "theme_color": "#7864D7",
